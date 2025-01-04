@@ -7,5 +7,6 @@
 </template>
 
 <style>
-@import '/assets/css/reset.css'
+@import '~/assets/css/reset.css';
+@import '~/public/icons/style.css';
 </style>
